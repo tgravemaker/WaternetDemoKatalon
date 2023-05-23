@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Vond u deze informatie nuttig_mopicon mopicon-thumbs-up</name>
+   <tag></tag>
+   <elementGuidId>5d0661e4-618a-49a5-a4f6-f58d3d339b65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='thumbs-61017']/fieldset/div/div/label/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>9cb82d27-b51c-4465-8dcf-e61b8433b80d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mopicon mopicon-thumbs-up </value>
+      <webElementGuid>34c46426-6744-4ef0-b7d7-fec58cb26427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>9a9f8b62-9a76-4f90-a2b4-7b7900f145c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>icon</name>
+      <type>Main</type>
+      <value>fa fa-thumbs-up</value>
+      <webElementGuid>1edbbe32-32da-40ea-a22d-39a5df72e4af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;thumbs-61017&quot;)/fieldset[1]/div[@class=&quot;button-container thumbs-container&quot;]/div[@class=&quot;thumbs-wrapper button&quot;]/label[@class=&quot;label_thumbs_positive&quot;]/i[@class=&quot;mopicon mopicon-thumbs-up&quot;]</value>
+      <webElementGuid>63d02eba-c0ab-4bc7-bd99-1092c3830b94</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='thumbs-61017']/fieldset/div/div/label/i</value>
+      <webElementGuid>50105fa9-f666-4e17-b260-d67a3f8e7746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vond u deze informatie nuttig?'])[1]/following::i[1]</value>
+      <webElementGuid>746c8fc8-4316-4787-82df-d023c65b53af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekening betalen'])[2]/following::i[1]</value>
+      <webElementGuid>eb5252b2-5a05-4047-b62e-7ec91f268bf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ja'])[2]/preceding::i[1]</value>
+      <webElementGuid>7af0718f-f780-4c3c-856c-49ffad7c246b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nee'])[2]/preceding::i[2]</value>
+      <webElementGuid>091ffbe0-d257-46bc-aa71-4e6592d9a09e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//i</value>
+      <webElementGuid>16758955-e8da-4d82-b185-f6d571797f20</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
