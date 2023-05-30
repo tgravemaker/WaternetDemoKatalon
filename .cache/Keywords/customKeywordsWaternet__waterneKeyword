@@ -1,0 +1,15 @@
+{
+  "keywordFileContentHash": "17454F9D5C7BA9E2C313734832692A50",
+  "keywordClasses": [
+    {
+      "name": "customKeywordsWaternet.waterneKeyword",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": []
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}

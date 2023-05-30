@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Toon wachtwoord</name>
+   <tag></tag>
+   <elementGuidId>d1f2f4a1-803a-410f-92e1-cac51e77a8b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>svg.svg-eye</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord'])[1]/following::*[name()='svg'][1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>15d21dad-0c66-499c-b205-5f8eb7d3e092</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>1cc0476e-077f-49fa-a856-03a2a0951084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>20</value>
+      <webElementGuid>a186610f-4aee-47da-9c9f-ed050edbdec6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>14</value>
+      <webElementGuid>ec9eeaa3-a744-4fe2-822a-ea024c52d30b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 20 14</value>
+      <webElementGuid>2a2e221c-17ff-4ebd-b282-c066b3561904</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>svg-eye</value>
+      <webElementGuid>5865bcf3-f9c1-424a-a7e5-1f5a578a3793</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Toon wachtwoord </value>
+      <webElementGuid>b3de8c53-1cec-4937-8617-c2294c5c6ebf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-block-0&quot;)/div[@class=&quot;drinkwater-login&quot;]/div[1]/div[@class=&quot;drinkwater-login__content-wrap&quot;]/div[@class=&quot;drinkwater-login__form-wrap&quot;]/form[1]/div[@class=&quot;input-block input-block--full-width&quot;]/div[@class=&quot;input-block__input-wrap input-block__input-wrap--valid input-block__input-wrap--hide-validity-icon input-block__input-wrap--password-maskable&quot;]/button[@class=&quot;input-block__password-toggle&quot;]/svg[@class=&quot;svg-eye&quot;]</value>
+      <webElementGuid>9a624007-d684-47c3-ac71-e858f7535bc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>73315619-6d0a-4289-9f88-fcb465f85948</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mailadres'])[1]/following::*[name()='svg'][1]</value>
+      <webElementGuid>462bd5c4-1e98-42a5-9884-4a8977cbde8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Inloggen'])[2]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>7e966c24-dc33-46a3-a104-9bf793d4c5c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nieuw wachtwoord aanvragen'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>f00b8d2e-e78f-4f60-bdcd-ce9098c218ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[(text() = 'Toon wachtwoord ' or . = 'Toon wachtwoord ')]</value>
+      <webElementGuid>f18f0486-00fd-438c-b0c4-3248f7c2ff16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Inloggen</name>
+   <tag></tag>
+   <elementGuidId>2f9ee711-992f-4360-ae6a-aa0299c6b0e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.hidden-s.hidden-m</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sluit'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fe7c15ee-e218-46e4-9b07-ff96376e5691</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hidden-s hidden-m</value>
+      <webElementGuid>e51eb9ee-451b-492b-80e3-07fb2b249245</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Inloggen</value>
+      <webElementGuid>d0b4b27a-b813-4df0-848f-db8a44d77e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;navigation--active&quot;]/body[@class=&quot;navigation--active&quot;]/header[@class=&quot;header js-header&quot;]/nav[@class=&quot;navigation-main&quot;]/ul[@class=&quot;navigation-main__content list list--inline js-navigation-list navigation--active&quot;]/li[1]/div[@class=&quot;navigation-sub-menu js-sub-navigation-list navigation--active&quot;]/a[@class=&quot;button button--secondary visible-block&quot;]/span[@class=&quot;hidden-s hidden-m&quot;]</value>
+      <webElementGuid>eaf05190-a75d-4dd1-8f9b-862cf3a169a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sluit'])[1]/following::span[1]</value>
+      <webElementGuid>60a21e80-47bc-4190-9a43-8658407dda59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rekeningnummers Waternet'])[1]/following::span[1]</value>
+      <webElementGuid>fddbe6ff-f027-4487-8cd0-430d515cbc7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mijn Waternet'])[1]/preceding::span[1]</value>
+      <webElementGuid>990142db-0b67-4e70-b095-5659b6f4ecf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bekijk en betaal uw rekeningen'])[1]/preceding::span[2]</value>
+      <webElementGuid>8eb31ddb-97ed-4a39-8397-86b0bb4fd979</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Inloggen']/parent::*</value>
+      <webElementGuid>b54c1385-ec78-4796-ac35-a8ec2b7e54bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/span</value>
+      <webElementGuid>7a798ba8-7f7d-4837-835d-d5923a249336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Inloggen' or . = 'Inloggen')]</value>
+      <webElementGuid>cb3890d6-96bd-4a48-a514-9e89d0cea1f0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

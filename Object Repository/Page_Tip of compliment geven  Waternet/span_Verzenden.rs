@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Verzenden</name>
+   <tag></tag>
+   <elementGuidId>5a64020c-a814-4067-b94e-af2390e95e75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#e071ceaa-51ea-4509-8532-159eb545a1c3 > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='e071ceaa-51ea-4509-8532-159eb545a1c3']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b3186d71-0021-4ef4-b184-011df871247b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Verzenden</value>
+      <webElementGuid>8653bc5d-f42a-40bb-8648-5d01738f8022</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e071ceaa-51ea-4509-8532-159eb545a1c3&quot;)/span[1]</value>
+      <webElementGuid>f4ef5611-460a-412e-84cf-ce2d2b8a5785</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='e071ceaa-51ea-4509-8532-159eb545a1c3']/span</value>
+      <webElementGuid>d75cce88-d932-4dcb-95d3-72dae28b5f1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/following::span[1]</value>
+      <webElementGuid>634e221c-28d8-457e-a417-36471894f62f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Verplicht'])[4]/following::span[2]</value>
+      <webElementGuid>3d142e7d-b3d7-4196-a43a-9d807bb44a22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chatten'])[1]/preceding::span[1]</value>
+      <webElementGuid>f390fc5f-fb4b-4268-9982-f4e2db3a82e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat sluiten'])[1]/preceding::span[2]</value>
+      <webElementGuid>d815420a-65b1-4548-9d8a-2b3112c55c81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Verzenden']/parent::*</value>
+      <webElementGuid>222c1c2c-d5b0-48ee-88fd-816b639ad75e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>4a7c6a77-ed60-474e-a0a8-be7e5016dccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Verzenden' or . = 'Verzenden')]</value>
+      <webElementGuid>6d530dad-93ec-41b4-be64-a70f13fba2ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

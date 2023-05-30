@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "C734C343AEDE92F3A51CBCD2B8241648",
+  "keywordClasses": [
+    {
+      "name": "customKeywordsWaternet.waternetKeyword",
+      "keywordMethods": [
+        {
+          "name": "login",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

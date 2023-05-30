@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>LoginFlowRecorder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7703dbe4-f46e-4a56-9e8b-cee0b07dab13</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>6dbbc464-6886-42d0-b936-5d95e04ae676</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/WaternetNieuw</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>6dbbc464-6886-42d0-b936-5d95e04ae676</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>email</value>
+      <variableId>7f203a27-4149-44b4-ba00-fc685d1d4e81</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>6dbbc464-6886-42d0-b936-5d95e04ae676</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>wachtwoord</value>
+      <variableId>8c441240-b193-4e1f-8fc6-95dd5094e4f3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'voorbeeld@voorbeeld.nl'</defaultValue>
+      <description></description>
+      <id>7f203a27-4149-44b4-ba00-fc685d1d4e81</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'hUjMQNnBjz27bj3oOeD+VQ=='</defaultValue>
+      <description></description>
+      <id>8c441240-b193-4e1f-8fc6-95dd5094e4f3</id>
+      <masked>false</masked>
+      <name>wachtwoord</name>
+   </variable>
+</TestCaseEntity>

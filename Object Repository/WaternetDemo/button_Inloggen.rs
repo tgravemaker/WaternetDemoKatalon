@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Inloggen</name>
+   <tag></tag>
+   <elementGuidId>e2c7a7d9-a785-4b8b-932a-546f62a8b41d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button--full-width.button--icon-before</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='submit'])[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d66a0904-37d1-4980-9f10-79f8350dde05</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>aae830ca-28c7-40ca-90f6-e7e6d0b02f96</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button--full-width button--icon-before</value>
+      <webElementGuid>44bcf729-9a21-4f74-a438-37954836911f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Inloggen </value>
+      <webElementGuid>39f47e16-3398-41e1-a38a-3c26c34b014a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;login-block-0&quot;)/div[@class=&quot;drinkwater-login&quot;]/div[1]/div[@class=&quot;drinkwater-login__content-wrap&quot;]/div[@class=&quot;drinkwater-login__form-wrap&quot;]/form[1]/div[@class=&quot;button-wrap drinkwater-login__button button-wrap--icon-before&quot;]/button[@class=&quot;button button--full-width button--icon-before&quot;]</value>
+      <webElementGuid>0fa95dc7-67e2-4cd4-b411-66a81345642e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='submit'])[5]</value>
+      <webElementGuid>ecfb3e60-21cb-46f6-8210-7bd5947d6935</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='login-block-0']/div/div/div/div/form/div[3]/button</value>
+      <webElementGuid>12b9712b-4c4e-4fab-8e9a-5e06cafd3b80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wachtwoord'])[1]/following::button[2]</value>
+      <webElementGuid>01d5a7f2-a0db-4449-aa53-6562e24b9e15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mailadres'])[1]/following::button[2]</value>
+      <webElementGuid>6eff13c1-556d-4eed-952a-ea531287f810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nieuw wachtwoord aanvragen'])[1]/preceding::button[1]</value>
+      <webElementGuid>5d5ec078-4cf6-4586-9fee-b9c7cf4bfe8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/button</value>
+      <webElementGuid>cf9d0799-d51e-4a8f-83f6-0ce90884590b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = '  Inloggen ' or . = '  Inloggen ')]</value>
+      <webElementGuid>76a850ae-cffa-4aa0-baf5-2a3a2fec0a91</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

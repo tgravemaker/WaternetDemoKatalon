@@ -6,6 +6,7 @@
    <UUID>6becabf2-990e-48b7-badb-78be84fb2963</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/pl-tq-203/Downloads/Testje Waternet/KR Exported Studio Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
@@ -24,5 +25,6 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
+   <timeStampInProperties>true</timeStampInProperties>
    <type>WEBUI</type>
 </Project>
